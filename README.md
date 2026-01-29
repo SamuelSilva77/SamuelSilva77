@@ -12,7 +12,7 @@ Desenvolvo projetos próprios para consolidar meu aprendizado na prática, busca
 ## 🌐 Onde Me encontrar
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
+  <a href="https://github.com/SamuelSilva77">
     <img src="https://img.shields.io/badge/GitHub-SamuelSilva77-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
