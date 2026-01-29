@@ -57,13 +57,13 @@ Desenvolvo projetos próprios para consolidar meu aprendizado na prática, busca
 ## 📊 GitHub Status
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SamuelSilva77&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SamuelSilva77&show_icons=true&theme=tokyonight&count_private=true" /> <br> <br>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSilva77&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 Philosophy
+## 🚀 Filosofia
 
 > _"Programar não se resume apenas a resolver problemas.  
 > Não é sobre chegar rápido, é sobre evoluir todos os dias."_
