@@ -30,7 +30,6 @@ Desenvolvo projetos próprios para consolidar meu aprendizado na prática, busca
 -   ⚡ Crio funcionalidades dinâmicas com JavaScript puro  
 -   🧩 Consumo APIs REST utilizando fetch   
 -   🔐 Desenvolvo sistemas CRUD (criar, listar, editar e deletar dados)
--   💳 Payments, subscriptions & business logic
 -   🤖 Manipulo o DOM para criar interações no front-end  
 -   📊 Versiono meus projetos usando Git e GitHub  
 
