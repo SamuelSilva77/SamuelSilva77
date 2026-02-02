@@ -1,6 +1,6 @@
 # Olá 👋, Eu sou samuel
 
-🚀 **Junior Front-End | Javascript & TailwindCSS**  
+🚀 **Front-End Developer| Javascript & TailwindCSS**  
 
 Sou Desenvolvedor Web Front-end, com foco em HTML5, CSS3, JavaScript e Tailwind CSS, criando interfaces organizadas e funcionais. Tenho experiência com Flexbox, CSS Grid, manipulação do DOM e versionamento com Git e GitHub, sempre aplicando boas práticas.
 
